@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @elyashium
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on UI/UX, Desing
 - 📫 How to reach me ashishsinghlogic@gmail.com
 - 😄 Pronouns: he/him
 
