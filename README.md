@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **backend with Nodejs and Golang**
 
-- 💬 Ask me about **react, redux, gsap, java**
+- 💬 Ask me about **react, react native, UI/UX, gsap, java**
 
 - 📫 How to reach me **ashishsinghlogic@gmail.com**
 
