@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/elyashium" target="blank"><img src="https://img.shields.io/twitter/follow/elyashium?logo=twitter&style=for-the-badge" alt="elyashium" /></a> </p>
 
-- 🔭 I’m currently working on **terra**
-
-- 🌱 I’m currently exploring **backend with Nodejs and Golang**
-
-- 💬 Ask me about **react, react native, UI/UX, gsap, java**
-
 - 📫 How to reach me **ashishsinghlogic@gmail.com**
 
 
