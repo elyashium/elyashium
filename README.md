@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elyashium" target="blank"><img src="https://img.shields.io/twitter/follow/elyashium?logo=twitter&style=for-the-badge" alt="elyashium" /></a> </p>
 
-- 📫 How to reach me **shishh19112004@gmail.com**
+- 📫 How to reach me **ashishh19112004@gmail.com**
 
 
 
