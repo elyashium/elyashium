@@ -1,5 +1,5 @@
-# 💫 About Me:
-love code, design, and building. Best at MVPs, UI/UX, and shipping code fast. explored into all various technologies (full stack, native, MCP, Agentic workflows, Devops, web3, IoT and open source) and obsessed with building cool shit that works and looks cool
+
+I love code, design, and building. Best at MVPs, UI/UX, and shipping code fast. explored into all various technologies (full stack, native, MCP, Agentic workflows, Devops, web3, IoT and open source) and obsessed with building cool shit that works and looks cool
 
 
 ## 🌐 Socials:
