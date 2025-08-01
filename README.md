@@ -12,6 +12,4 @@ i love code, design, and building. Best at MVPs, UI/UX, and shipping code fast. 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elyashium&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elyashium&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyashium&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
