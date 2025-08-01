@@ -1,5 +1,5 @@
-<img src="https://64.media.tumblr.com/884efca6ca6a36ccf39f7f3410d3d3d9/7c2ae5ca5f52038d-35/s540x810/5e868caf02ee15dfa33da0d540580966c510e830.gif" alt="sonny boy ep 12" width="100%" />
 
+<img src="https://raw.githubusercontent.com/elyashium/elyashium/main/sonnyboyep12.gif" alt="Banner gif" width="100%" />
 
 
 I love code, design, and building. Best at MVPs, UI/UX, and shipping code fast. explored into all various technologies (full stack, native, MCP, Agentic workflows, Devops, web3, IoT and open source) and obsessed with building cool shit that works and looks cool
